@@ -1,6 +1,6 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *GameFundPool*
 
-Submitted by: **Your Name Here**
+Submitted by: **Tien Nguyen**
 
 **Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features gif (I attached it directly here):
 
-<img src='./assets/walkingthrough_record.gif' title='Video Walkthrough' style="width: 900px; max-width: 100%; height: auto;"  alt='Video Walkthrough' />
+<img src='./assets/recording_walkthrough.gif' title='Video Walkthrough' style="width: 900px; max-width: 100%; height: auto;"  alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
