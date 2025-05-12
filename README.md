@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features gif (I attached it directly here):
 
-<img src='./assets/Recording_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./assets/Recording_walkthrough.gif' title='Video Walkthrough' style="width: 600px; max-width: 100%; height: auto;"  alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
